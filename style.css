@@ -1,0 +1,16 @@
+
+
+.navbar-nav.justify-content-right{
+
+	margin-left: 900px;
+	padding: 0px;
+
+}
+.jumbotron {
+    background-color:#000000 ;
+}
+.navbar-nav.justify-content-left{
+	margin: 30px;
+	height: 10px;
+	
+}
