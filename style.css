@@ -1,16 +1,74 @@
 
 
-.navbar-nav.justify-content-right{
+.nav{
+display:flex;
+flex-direction: row;
 
-	margin-left: 900px;
-	padding: 0px;
+	/*
+	margin-top: -200px;
+	padding: 0px;*/
+
 
 }
-.jumbotron {
-    background-color:#000000 ;
-}
-.navbar-nav.justify-content-left{
-	margin: 30px;
+.justify-content-end{
+	display:flex;
+	margin-top: -50px;
 	height: 10px;
+
+	margin-left: 500px;
 	
+
+}
+.navbar{
+
+	
+	
+	background:black;
+	display: flex;
+	margin-top: -40px;
+	margin-left: -30px;
+	width:1590px;
+
+	
+}
+#gauche{
+	width: 300px;
+	
+}
+button:before{
+	content: "\25B6";
+      color: red;
+
+}
+button{
+	border-radius: 50%;
+	background:white;
+	}
+button{
+ 
+}
+
+#artisan{
+	height: 1000px;
+	background: url(background-top1.jpg)no-repeat
+
+	}
+	#artisan{
+		background-size: 100%;
+		width: 1500px;
+		margin-left: -20px;
+		margin-top: -20px;
+}
+
+		#artisan{
+			margin-right: -20px;
+
+		}
+
+
+
+	}
+h1{
+text-align:center;
+
 }
